@@ -3,11 +3,11 @@
 </div>
 
 <p>
-  <h2 align="center"><b>Hello Devs, I'm Vinícius Cordeiro👋</b></h2>
+  <h2 align="center"><b>Hello There! I'm Vinícius Cordeiro👋</b></h2>
 </p>
 
 <p>
-   <h4 align="center"> :sunglasses: &nbsp;&nbsp;&nbsp;I'm DevOps Engineer and AWS Cloud Architect! &nbsp;&nbsp;&nbsp;:sunglasses:</h4>
+   <h4 align="center"> :sunglasses: &nbsp;&nbsp;&nbsp;I'm DevOps Engineer, AWS Cloud Architect, Backend Node Developer and another little things! &nbsp;&nbsp;&nbsp;:sunglasses:</h4>
    <h4 align="center"> :heavy_heart_exclamation: I love the tech world :robot:                         </h4>
 </p>
 
