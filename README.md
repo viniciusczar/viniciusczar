@@ -7,7 +7,7 @@
 </p>
 
 <p>
-   <h4 align="center"> :sunglasses: &nbsp;&nbsp;&nbsp;I'm DevOps Engineer, AWS Cloud Architect, Backend Node Developer and another little things! &nbsp;&nbsp;&nbsp;:sunglasses:</h4>
+   <h4 align="center"> :sunglasses: &nbsp;&nbsp;&nbsp;I'm DevOps Engineer, Google Cloud Architect PRO, AWS Cloud Solutions Architect, Backend Js/Ts Developer and another little things! &nbsp;&nbsp;&nbsp;:sunglasses:</h4>
    <h4 align="center"> :heavy_heart_exclamation: I love the tech world :robot:                         </h4>
 </p>
 
